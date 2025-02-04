@@ -1,0 +1,7 @@
+name: 'SDC Custom Theme'
+type: theme
+description: 'A custom theme using Single Directory Components'
+core_version_requirement: ^11
+base theme: olivero
+libraries:
+  - sdc_custom/global-styling
